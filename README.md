@@ -31,5 +31,5 @@ An interactive Drum Kit web application built using **HTML**, **CSS**, and **Jav
 
 ## 🔗 Live Demo
 
-[Play the Drum Kit](https://github.com/YuvanGanesh/Drum-Kit)  
+[Play the Drum Kit](https://yuvanganesh.github.io/Drum-Kit/)  
 
